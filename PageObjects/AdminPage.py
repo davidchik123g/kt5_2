@@ -132,7 +132,7 @@ class AdminPage(BasePage):
         product_name.click()
 
         self.driver.execute_script("arguments[0].click();", product_name)
-        #без этой команды не тест будет ошибку выдавать, я пытался делать без него, но я устал уже пытаться решить данный тест без time.sleep.
+        #без этой команды тест будет ошибку выдавать, я пытался делать без него, но я устал уже пытаться решить данный тест без time.sleep.
         time.sleep(0.5)
 
         self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight)")
@@ -143,7 +143,7 @@ class AdminPage(BasePage):
 
         actions = ActionChains(self.driver)
         actions.move_to_element(delete_checkbox_keyboard).click().perform()
-        #без этой команды не тест будет ошибку выдавать, я пытался делать без него, но я устал уже пытаться решить данный тест без time.sleep.
+        #без этой команды тест будет ошибку выдавать, я пытался делать без него, но я устал уже пытаться решить данный тест без time.sleep.
         time.sleep(0.5)
 
 
