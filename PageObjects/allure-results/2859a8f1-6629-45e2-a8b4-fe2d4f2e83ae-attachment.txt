@@ -1,0 +1,2 @@
+[32mINFO    [0m test_search:BasePage.py:16 Finding element by locator: ('xpath', '//header/div[1]/div[1]/div[2]/div[1]/input[1]')
+[32mINFO    [0m test_search:BasePage.py:16 Finding element by locator: ('xpath', '//header/div[1]/div[1]/div[2]/div[1]/button[1]')

@@ -1,0 +1,2 @@
+2024-03-31 11:18:36,611 - INFO - Finding element by locator: ('xpath', '//header/div[1]/div[1]/div[2]/div[1]/input[1]')
+2024-03-31 11:18:38,235 - INFO - Finding element by locator: ('xpath', '//header/div[1]/div[1]/div[2]/div[1]/button[1]')

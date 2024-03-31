@@ -1,0 +1,1 @@
+[32mINFO    [0m test_add_to_wishlist:BasePage.py:16 Finding element by locator: ('css selector', 'div.container:nth-child(2) div.row div.col div.row.row-cols-1.row-cols-sm-2.row-cols-md-3.row-cols-xl-4:nth-child(4) div.col.mb-3:nth-child(2) div.product-thumb div.content form:nth-child(2) div.button-group:nth-child(1) button:nth-child(2) > i.fa-solid.fa-heart')

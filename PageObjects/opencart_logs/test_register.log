@@ -1,0 +1,8 @@
+2024-03-31 11:18:35,522 - INFO - Finding element by locator: ('xpath', "//body/nav[@id='top']/div[1]/div[2]/ul[1]/li[2]/div[1]/a[1]")
+2024-03-31 11:18:35,599 - INFO - Finding element by locator: ('css selector', 'div.container div.nav.float-end:nth-child(2) ul.list-inline li.list-inline-item:nth-child(2) div.dropdown ul.dropdown-menu.dropdown-menu-right.show li:nth-child(1) > a.dropdown-item')
+2024-03-31 11:18:35,924 - INFO - Finding element by locator: ('css selector', '#input-firstname')
+2024-03-31 11:18:36,025 - INFO - Finding element by locator: ('css selector', '#input-lastname')
+2024-03-31 11:18:36,098 - INFO - Finding element by locator: ('css selector', '#input-email')
+2024-03-31 11:18:36,175 - INFO - Finding element by locator: ('css selector', '#input-password')
+2024-03-31 11:18:36,245 - INFO - Finding element by locator: ('css selector', 'div.container:nth-child(2) div.row div.col form:nth-child(3) div.text-end:nth-child(4) div.form-check.form-switch.form-switch-lg.form-check-reverse.form-check-inline > input.form-check-input')
+2024-03-31 11:18:36,309 - INFO - Finding element by locator: ('css selector', 'div.container:nth-child(2) div.row div.col form:nth-child(3) div.text-end:nth-child(4) > button.btn.btn-primary')

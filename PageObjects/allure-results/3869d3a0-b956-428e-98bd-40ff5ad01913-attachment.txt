@@ -1,0 +1,3 @@
+[32mINFO    [0m test_submit_review:BasePage.py:16 Finding element by locator: ('xpath', "//a[contains(text(),'Apple Cinema 30')]")
+[32mINFO    [0m test_submit_review:BasePage.py:16 Finding element by locator: ('xpath', "//a[contains(text(),'Reviews (0)')]")
+[32mINFO    [0m test_submit_review:BasePage.py:16 Finding element by locator: ('id', 'input-text')
